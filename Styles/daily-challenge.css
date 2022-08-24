@@ -4,14 +4,14 @@ h1 {
 }
 
 #todays-challenge {
-    color: red;
+    color: rgb(148, 6, 6);
     font-weight: bold;
     font-size: 52px;
 }
 
 img {
-    width:  200px;
-    height: 200px;
+    width:  195px;
+    height: 195px;
     border-radius: 100px;
 }
 

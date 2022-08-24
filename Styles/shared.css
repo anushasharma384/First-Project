@@ -4,7 +4,7 @@ header {
 body {
     background-color: rgb(247, 201, 208);
     text-align: center;
-    color: rgb(83,75,75);
+    color: rgb(94, 86, 86);
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(167,10,40);
+    color: rgb(187, 13, 45);
 }
 
 /* header p {
@@ -38,16 +38,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-/* main p {
-    margin: 12px;
-    color: rgb(71,29,22);
-} */
-
-/* .daily-goal {
-    margin: 12px;
-    color: rgb(71,29,22);
-} */
 
 .highlight-goal {
     margin: 32px;
