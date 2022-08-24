@@ -1,0 +1,20 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#todays-challenge {
+    color: red;
+    font-weight: bold;
+    font-size: 52px;
+}
+
+img {
+    width:  200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+body {
+    margin: 50px;
+}

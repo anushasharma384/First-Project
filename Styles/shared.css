@@ -1,0 +1,59 @@
+header {
+    margin-bottom: 64px;
+}
+body {
+    background-color: rgb(247, 201, 208);
+    text-align: center;
+    color: rgb(83,75,75);
+}
+
+h1 {
+    font-family: 'Oswald' , sans-serif;
+    margin: 12px;
+}
+
+h2 {
+    color: rgb(167,10,40);
+}
+
+/* header p {
+    margin-bottom: 36px;
+} */
+
+p {
+    font-family: 'Fira Sans' , sans-serif;
+    margin-bottom: 36px;
+}
+
+a {
+    padding: 8px;
+    font-family: 'Fira Sans' , sans-serif;
+    background-color: rgb(222, 54, 79);
+    color: white;
+    border: 1px solid rgb(167,17,8);
+    border-radius: 4px;
+    font-size: 24px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* main p {
+    margin: 12px;
+    color: rgb(71,29,22);
+} */
+
+/* .daily-goal {
+    margin: 12px;
+    color: rgb(71,29,22);
+} */
+
+.highlight-goal {
+    margin: 32px;
+    background-color: rgb(223,136,124);
+    border-radius: 6px;
+}
+#description {
+margin-bottom: 36px;
+}
